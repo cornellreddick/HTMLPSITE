@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92E69C41-4E71-499D-A5C5-EE4F0AD9291B}"
+	ProjectSection(SolutionItems) = preProject
+		Mysite.html = Mysite.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{1FF0B154-0089-4D8E-82E4-AD50BA2222A3}"
+	ProjectSection(SolutionItems) = preProject
+		Style.css = Style.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -33,15 +33,15 @@ header
     font-size: 15px;
 }
 
-.main-nav li.active a
-{
-    border: 1px solid white;
-}
+    .main-nav .active a {
+        border: 1px solid white;
+        
+    }
 
-.main-nav li a:hover
-{
-    border: 1px solid white;
-}
+    .main-nav li a:hover {
+        border: 1px solid white;
+        
+    }
 
 .logo img
 {
@@ -65,8 +65,8 @@ body
 {
     position: absolute;
     width: 1200px;
-    margin-left: 0px;
-    margin-top: 0px;
+    margin-left: 1px;
+    margin-top: 1px;
 }
 
 h1

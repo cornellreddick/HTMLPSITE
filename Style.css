@@ -33,12 +33,14 @@ header
     font-size: 15px;
 }
 
-    .main-nav .active a {
+    .main-nav li.active a 
+    {
         border: 1px solid white;
         
     }
 
-    .main-nav li a:hover {
+    .main-nav li a:hover 
+    {
         border: 1px solid white;
         
     }
@@ -48,6 +50,13 @@ header
     width: 150px;
     height: auto;
     float: left;
+}
+.profile img {
+    width: 200px;
+    height: auto;
+    float: right;
+    transform: rotate(270deg);
+    border: 5px solid red;
 }
 
 body
@@ -66,7 +75,7 @@ body
     position: absolute;
     width: 1200px;
     margin-left: 1px;
-    margin-top: 1px;
+    margin-top: px;
 }
 
 h1

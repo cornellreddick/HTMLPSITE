@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "content", "content", "{1FF0B154-0089-4D8E-82E4-AD50BA2222A3}"
 	ProjectSection(SolutionItems) = preProject
+		blog.css = blog.css
 		darky.css = darky.css
 		Style.css = Style.css
 	EndProjectSection

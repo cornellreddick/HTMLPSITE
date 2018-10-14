@@ -2,3 +2,18 @@
 {
     
 }
+html{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Handlee', cursive;
+    font-size: 13pt;
+    background-color: darkslategray;
+    padding: 10px;
+    margin: 0;
+}
+h1{
+    font-size: 15pt;
+    color: blue;
+}
